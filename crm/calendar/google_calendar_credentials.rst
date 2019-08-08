@@ -80,5 +80,23 @@ Setup in Odoo
 .. image:: media/google_calendar_credentials10.png
     :align: center
 
+Do not forget the verification process, please update your gcebhc project to comply with our requirements.
+
+privacy policy
+
+Google API Service: The user data policy requires the following:
+
+Your privacy policy must be:
+
+Hosted in the domain of your website
+Accessible from the application home page
+Visible to users
+Linked to the OAuth consent screen of the Google API console
+Your privacy policy and product-embedded privacy notices must clearly indicate how your app accesses, uses, stores, or shares Google user data.
+
+Your use of Google's user data must be limited to the practices explicitly disclosed in your published privacy policy.
+
 As of now you no longer have excuses to miss a meeting!
+
+
 
